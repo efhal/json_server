@@ -1,0 +1,22 @@
+{
+    "siswa" : [
+        {
+            "id":1,
+            "nama":"Rumi",
+            "kelas":"B/KP/12"
+            },{
+            "id":2,
+            "nama":"Agung",
+            "kelas":"B/KP/12"
+        }
+    ],
+    "tahun_ajaran" : [
+        {
+            "id" : 20222023,
+            "tahun_ajaran" : "2022/2023"
+        },{
+            "id" : 20232024,
+            "tahun_ajaran" : "2023/2024"
+        }
+    ]
+}
